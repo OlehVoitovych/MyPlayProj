@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="67a3b275-abd1-4c7b-8928-dd9e619a3667" name="Changes" comment="V: Armor">
-      <change afterPath="$PROJECT_DIR$/src/UI/GP/INVview/InventorySlot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/GP/INVview/InventoryView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/GP/INVview/ItemStats.java" afterDir="false" />
+    <list default="true" id="e727a8bb-d293-4371-8934-be997492fd0e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Items/Weapon/Baculus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Items/Weapon/Baculus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Items/Weapon/Hammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Items/Weapon/Hammer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Items/Weapon/Sword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Items/Weapon/Sword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/GP/GamePlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/GP/GamePlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/GP/GameZone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/GP/GameZone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/GP/InfoZone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/GP/InfoZone.java" afterDir="false" />
     </list>
-=======
-    <list default="true" id="67a3b275-abd1-4c7b-8928-dd9e619a3667" name="Changes" comment="V: Armor" />
->>>>>>> b3b618dbbc0c5ed75d8e0d3748dd433083e1ba61
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
